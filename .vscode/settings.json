@@ -7,7 +7,6 @@
         "examples",
         "testing",
         "templates",
-        "exporting",
-        "website"
+        "exporting"
     ]
 }
